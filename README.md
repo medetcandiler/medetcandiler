@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm medetcandiler</h1>
-<h3 align="center">I am enthusiastic and passionate front-end developer and mechanical engineer</h3>
+<h1 align="center">Hi 👋, I'm Medetcan Diler</h1>
+<h3 align="center">I am a mechanical engineer and also enthusiastic and passionate learner of front-end web development. I hope you like my lovely projects. </h3>
+
+- 🔭 I’m currently working on [Meditation application project](https://github.com/medetcandiler/my-meditation-application-project)
+
+- 🌱 I’m currently learning **React and vue.**
 
 - 📫 How to reach me **medetdiler@icloud.com**
 
