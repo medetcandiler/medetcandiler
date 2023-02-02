@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Medetcan Diler</h1>
+<h1 align="center">Hi there 👋, It'is Medetcan Diler</h1>
 <h3 align="center">I am a mechanical engineer and also enthusiastic and passionate learner of front-end web development. I hope you like my lovely projects. </h3>
 
 - 🔭 I’m currently working on [Meditation application project](https://github.com/medetcandiler/my-meditation-application-project)
