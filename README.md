@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Meditation application project](https://github.com/medetcandiler/my-meditation-application-project)
 
-- 🌱 I’m currently learning **React and vue.**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
 - 📫 How to reach me **medetdiler@icloud.com**
 
