@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, It's Medetcan Diler</h1>
-<h3 align="center">I am a mechanical engineer and also enthusiastic and passionate learner of front-end web development. I hope you like my lovely projects. </h3>
+<h3 align="center">I am a mechanical engineer, fervently exploring and mastering front-end web development. Join me in appreciating my delightful projects. </h3>
 
 - 🔭 I’m currently working on [Meditation application project](https://github.com/medetcandiler/my-meditation-application-project)
 
