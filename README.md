@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, It's Medetcan Diler</h1>
 <h3 align="center">I am a mechanical engineer, fervently exploring and mastering front-end web development. Join me in appreciating my delightful projects. </h3>
 
-- 🔭 I’m currently working on [Meditation application project](https://github.com/medetcandiler/my-meditation-application-project)
+- 🔭 I’m currently working on [Meme Generator](https://github.com/medetcandiler/meme-generator)
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 📫 How to reach me **medetdiler@icloud.com**
+- 📫 How to reach me **medetdiler1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
