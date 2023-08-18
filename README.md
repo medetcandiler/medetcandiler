@@ -13,9 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/medetcandiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="medetcandiler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/medet-diler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="medet-diler" height="30" width="40" /></a>
-<a href="https://instagram.com/medetdiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medetdiler" height="30" width="40" /></a>
-<a href="https://medium.com/@medetdiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medetdiler" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/medetdiler1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="medetdiler1996" height="30" width="40" /></a>
+<a href="https://instagram.com/medetcandiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="medetdiler" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
