@@ -5,7 +5,7 @@
 
 🌟 With a background in Mechanical Engineering, I bring a unique perspective to frontend work, emphasizing organization, systematic thinking, and effective problem-solving.
 
-🚀 Specializing in React and Next.js, I craft captivating user interfaces. I also have experience with modern web technologies such as HTML5, CSS3, JavaScript, Bootstrap, Sass, Material-UI, and Chakra UI.
+🚀 Specializing in React and Next.js, I craft captivating user interfaces. I also have experience with modern web technologies such as HTML5, CSS3, JavaScript, React, Next JS, Tailwind Css, Bootstrap, Material-UI.
 
 📫 You can reach me at medetdiler1996@gmail.com. Let's connect and create amazing web experiences together!
 
